@@ -4,8 +4,8 @@
 **OrangeHRM Manual Testing Project**
 
 **Document Information**
-Item Details
 
+Item Details
 Project OrangeHRM Manual Testing Document Test Plan
 Prepared By Kannan S
 Version 1.0
