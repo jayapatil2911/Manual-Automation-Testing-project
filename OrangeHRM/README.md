@@ -4,7 +4,7 @@
 
 This project demonstrates **Manual Testing and Automation Testing** of the OrangeHRM web application.
 
-The project includes test planning, test case design, test execution, defect reporting, requirement traceability, and Selenium automation using Java and TestNG.
+The project includes requirement analysis, test planning, test case design, test execution, defect reporting, requirement traceability, and Selenium automation using Java and TestNG.
 
 ## 🎯 Testing Scope
 
@@ -37,7 +37,7 @@ Manual testing activities include:
 ### 📄 Manual Testing Documents
 
 | Document     | Description                                              |
-| ------------ | -------------------------------------------------------- |                       |
+| ------------ | -------------------------------------------------------- |
 | Test Plan    | Testing scope, approach, environment, risks and schedule |
 | Test Cases   | Functional and negative test cases                       |
 | RTM          | Requirement-to-test-case mapping                         |
@@ -143,7 +143,7 @@ Test data includes login and module-specific test data used during automation.
 
 ### Prerequisites
 
-* Java JDK installed
+* Java JDK
 * Eclipse IDE
 * Maven
 * Chrome browser
