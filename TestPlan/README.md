@@ -5,11 +5,13 @@
 
 **Document Information**
 
+
 Item Details
-Project OrangeHRM Manual Testing Document Test Plan
-Prepared By Kannan S
-Version 1.0
-Date July 2026
+
+Project OrangeHRM Manual Testing Document
+Test Plan
+
+
 
 **1. Introduction**
 This Test Plan describes the manual testing approach for the OrangeHRM web application.
