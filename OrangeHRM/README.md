@@ -98,8 +98,6 @@ Automation testing is implemented using:
 OrangeHRM
 │
 ├── Manual-Testing
-│   ├── BRS
-│   ├── SRS
 │   ├── Test-Plan
 │   ├── Test-Cases
 │   ├── RTM
